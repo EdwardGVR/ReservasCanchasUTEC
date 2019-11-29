@@ -252,6 +252,12 @@ input[type="submit"]:active {
     flex-wrap: nowrap;
 }
 
+.buscador .buscar {
+    display: flex;
+    justify-content: flex-end;
+    width: 500px;
+}
+
 .container.home .content img {
     min-width: 50%;
     border-radius: 10px 0 0 10px;
@@ -282,7 +288,8 @@ input[type="submit"]:active {
 }
 
 .buscador input[type="text"],
-.buscador input[type="date"] {
+.buscador input[type="date"],
+.buscador select {
     height: 40px;
     width: 200px;
     padding: 5px;
@@ -317,6 +324,10 @@ input[type="submit"]:active {
     padding: 5px;
     border-collapse: collapse;
     border: 2px solid #5d0a28;
+}
+
+.results .column.cancha {
+    width: 33.333333%;
 }
 
 .results .column.number {

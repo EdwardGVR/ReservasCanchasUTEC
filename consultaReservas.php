@@ -14,7 +14,7 @@
         <?php include 'menu.php' ?>
 
         <form class="buscador" action="#" method="post">
-            <span>Consultar reservas</span>
+            <span>Consulta de reservas</span>
             <div class="por Fecha">
                 <input type="checkbox" name="buscarFecha" id="buscarFecha">
                 <label for="buscarFecha">Por fecha:</label>
