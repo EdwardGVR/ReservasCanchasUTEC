@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container login">
-        <form action="" class="login-form" method="POST">
+        <form action="#" class="login-form" method="POST">
             <div class="user-icon">
                 <i class="fas fa-user"></i>
             </div>

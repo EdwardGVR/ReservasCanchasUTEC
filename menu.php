@@ -1,10 +1,10 @@
 <div class="menu">
-<div class="logo-utec">
+<a href="home.php" class="logo-utec">
     <img src="img/utec_logo1.png" alt="" srcset="">
-</div>
+</a>
 
 <div class="options">
-    <a href="#" class="option">Reservas</a>
+    <a href="consultaReservas.php" class="option">Reservas</a>
     <a href="#" class="option">Canchas</a>
     <a href="#" class="option">Usuarios</a>
 </div>
