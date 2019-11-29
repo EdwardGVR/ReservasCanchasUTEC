@@ -11,6 +11,10 @@
     align-items: center;
     height: 100vh;
     width: 100%;
+    background: #ccc;
+}
+
+.container.login {
     background: #5d0a28;
 }
 
@@ -133,4 +137,81 @@ input[type="submit"]:active {
     color: #fff;
     background: #5d0a28;
     box-shadow: 1px 1px 2px #000;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-self: flex-start;
+    width: 100%;
+    height: 100px;
+    padding: 10px 20px;
+    background: #5d0a28;
+    box-shadow: 0 2px 5px #000;
+}
+
+.menu .logo-utec img {
+    width: 300px;
+}
+
+.menu .option {
+    display: inline-block;
+    text-decoration: none;
+    line-height: 100px;
+    color: #fff;
+    font-size: 1.2em;
+    margin: 0;
+    background: #5d0a28;
+    height: 100px;
+    padding: 0 20px;
+    transition: all ease 0.3s;
+}
+
+.menu a:hover {
+    background: #360014;
+}
+
+.menu .user {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    width: 300px;
+    height: 100%;
+}
+
+.menu .user .info {
+    width: 100%;
+}
+
+.menu .user .info span,
+.menu .user .info a {
+    display: block;
+    width: 100%;
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu .user .info span:nth-child(1) {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.menu .user .info span:nth-child(2) {
+    margin-bottom: 10px;
+    font-size: 0.9em;
+}
+
+.menu .user .info a {
+    padding: 5px 5px 5px 0;
+    border-radius: 5px;
+}
+
+.menu .user i {
+    padding: 15px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    color: #fff;
+    font-size: 2em;
 }

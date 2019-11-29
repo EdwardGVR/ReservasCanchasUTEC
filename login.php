@@ -10,10 +10,10 @@
     <title>Iniciar sesi&oacute;n</title>
 </head>
 <body>
-    <div class="container">
+    <div class="container login">
         <form action="" class="login-form" method="POST">
             <div class="user-icon">
-                    <i class="fas fa-user"></i>
+                <i class="fas fa-user"></i>
             </div>
 
             <div class="login-header">
