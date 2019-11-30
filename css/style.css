@@ -23,6 +23,7 @@ body {
 
 .container.login {
     background: #5d0a28;
+    align-items: center;
 }
 
 .login-form {
@@ -255,7 +256,9 @@ input[type="submit"]:active {
 .buscador .buscar {
     display: flex;
     justify-content: flex-end;
-    width: 500px;
+    align-items: center;
+    min-width: 500px;
+    height: 45px;
 }
 
 .container.home .content img {
@@ -285,13 +288,14 @@ input[type="submit"]:active {
     /* display: flex; */
     /* background: #000; */
     margin-right: 20px;
+    /* height: 40px; */
 }
 
 .buscador input[type="text"],
 .buscador input[type="date"],
 .buscador select {
     height: 40px;
-    width: 200px;
+    width: 250px;
     padding: 5px;
 }
 

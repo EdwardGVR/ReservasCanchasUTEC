@@ -6,7 +6,7 @@
 <div class="options">
     <a href="consultaReservas.php" class="option">Reservas</a>
     <a href="consultaCanchas.php" class="option">Canchas</a>
-    <a href="#" class="option">Usuarios</a>
+    <a href="consultaUsuarios.php" class="option">Usuarios</a>
 </div>
 
 <div class="user">

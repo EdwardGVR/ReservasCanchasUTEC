@@ -15,19 +15,21 @@
 
         <form class="buscador" action="#" method="post">
             <span>Consulta de reservas</span>
-            <div class="por Fecha">
-                <input type="checkbox" name="buscarFecha" id="buscarFecha">
-                <label for="buscarFecha">Por fecha:</label>
-                <input type="date" name="fecha" id="fecha">
-            </div>
+            <div class="buscar">
+                <div class="por Fecha">
+                    <input type="checkbox" name="buscarFecha" id="buscarFecha">
+                    <label for="buscarFecha">Por fecha:</label>
+                    <input type="date" name="fecha" id="fecha">
+                </div>
 
-            <div class="por Usuario">
-                <input type="checkbox" name="buscarUsuario" id="buscarUsuario">
-                <label for="buscarUsuario">Por usuario:</label>
-                <input type="text" name="usuario" id="usuario" placeholder="Usuario">
-            </div>
+                <div class="por Usuario">
+                    <input type="checkbox" name="buscarUsuario" id="buscarUsuario">
+                    <label for="buscarUsuario">Por usuario:</label>
+                    <input type="text" name="usuario" id="usuario" placeholder="Usuario">
+                </div>
 
-            <input type="submit" value="Buscar">
+                <input type="submit" value="Buscar">
+            </div>
         </form>
 
         <div class="content">
