@@ -82,7 +82,7 @@
             </div>
         </div>
 
-        <a href="#agregarReserva" class="addIcon">
+        <a href="agregarReserva.php" class="addIcon">
             <i class="fas fa-plus-circle"></i>
         </a>
     </div>

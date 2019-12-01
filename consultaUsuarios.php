@@ -71,7 +71,7 @@
             </div>
         </div>
 
-        <a href="#agregarUsuario" class="addIcon">
+        <a href="agregarUsuario.php" class="addIcon">
             <i class="fas fa-plus-circle"></i>
         </a>
     </div>
