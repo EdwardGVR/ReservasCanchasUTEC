@@ -36,7 +36,7 @@
                     <div class="column detail">Detalles</div>
                 </div>
                 
-                <a href="#detallesUsuario" class="row">
+                <a href="detallesUsuario.php" class="row">
                     <div class="column">Carn&eacute;</div>
                     <div class="column">Nombre</div>
                     <div class="column">Tel&eacute;fono</div>
@@ -44,7 +44,7 @@
                     <div class="column">Rol</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesUsuario" class="row">
+                <a href="detallesUsuario.php" class="row">
                     <div class="column">Carn&eacute;</div>
                     <div class="column">Nombre</div>
                     <div class="column">Tel&eacute;fono</div>
@@ -52,7 +52,7 @@
                     <div class="column">Rol</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesUsuario" class="row">
+                <a href="detallesUsuario.php" class="row">
                     <div class="column">Carn&eacute;</div>
                     <div class="column">Nombre</div>
                     <div class="column">Tel&eacute;fono</div>
@@ -60,7 +60,7 @@
                     <div class="column">Rol</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesUsuario" class="row">
+                <a href="detallesUsuario.php" class="row">
                     <div class="column">Carn&eacute;</div>
                     <div class="column">Nombre</div>
                     <div class="column">Tel&eacute;fono</div>

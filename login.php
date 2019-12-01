@@ -35,7 +35,7 @@
             </div>
 
             <div class="input-container">
-                <input type="submit" value="Ingresar">
+                <input type="submit" name="ingresar" value="Ingresar">
             </div>
         </form>
     </div>

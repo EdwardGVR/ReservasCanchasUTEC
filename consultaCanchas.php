@@ -19,7 +19,7 @@
                 <div class="por">
                     <label for="tipoCancha">Tipo de cancha:</label>
                     <select name="tipoCancha" id="tipoCancha">
-                        <option value="null" default disabled>-- Seleccione un tipo --</option>
+                        <option value="null" default disabled selected>-- Seleccione un tipo --</option>
                         <option value="1">Futbol</option>
                         <option value="2">Basquetbol</option>
                     </select>
@@ -37,13 +37,13 @@
                     <div class="column detail">Detalles</div>
                 </div>
 
-                <a href="#detallesCancha" class="row cancha">
+                <a href="detallesCancha.php" class="row cancha">
                     <div class="column cancha">Ubicaci&oacute;n</div>
                     <div class="column cancha">Tipo cancha</div>
                     <div class="column cancha">Estado</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesCancha" class="row cancha">
+                <a href="detallesCancha.php" class="row cancha">
                     <div class="column cancha">Ubicaci&oacute;n</div>
                     <div class="column cancha">Tipo cancha</div>
                     <div class="column cancha">Estado</div>

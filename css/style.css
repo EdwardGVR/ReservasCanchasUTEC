@@ -5,6 +5,10 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.hidden {
+    display: none;
+}
+
 body {
     min-width: 1000px;
 }
@@ -356,4 +360,49 @@ input[type="submit"]:active {
 .addIcon:hover {
     font-size: 5em;
     text-shadow: 4px 4px 6px #fff;
+}
+
+.detalles {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: auto;
+}
+
+.detalles input,
+.detalles select {
+    width: 100%;
+    height: 50px;
+    border: 2px solid #000;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.detalles input:focus,
+.detalles select:focus {
+    border: 2px solid #5d0a28;
+}
+
+.detalles input[type="submit"] {
+    border: none;
+}
+
+.container.home.det {
+    height: auto;
+}
+
+a.cancelarDetalle {
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    color: #000;
+    background: #ccc;
+    transition: all ease 0.3s
+}
+
+a.cancelarDetalle:hover {
+    background: #a33e6388;
 }

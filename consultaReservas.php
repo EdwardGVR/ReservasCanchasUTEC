@@ -43,7 +43,7 @@
                     <div class="column">Estado</div>
                     <div class="column detail">Detalles</div>
                 </div>
-                <a href="#detallesReserva" class="row headers">
+                <a href="detallesReserva.php" class="row headers">
                     <div class="column number">01</div>
                     <div class="column">Fecha</div>
                     <div class="column">Horario</div>
@@ -52,7 +52,7 @@
                     <div class="column">Estado</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesReserva" class="row headers">
+                <a href="detallesReserva.php" class="row headers">
                     <div class="column number">02</div>
                     <div class="column">Fecha</div>
                     <div class="column">Horario</div>
@@ -61,7 +61,7 @@
                     <div class="column">Estado</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesReserva" class="row headers">
+                <a href="detallesReserva.php" class="row headers">
                     <div class="column number">03</div>
                     <div class="column">Fecha</div>
                     <div class="column">Horario</div>
@@ -70,7 +70,7 @@
                     <div class="column">Estado</div>
                     <div class="column detail"><i class="fas fa-eye"></i></div>
                 </a>
-                <a href="#detallesReserva" class="row headers">
+                <a href="detallesReserva.php" class="row headers">
                     <div class="column number">04</div>
                     <div class="column">Fecha</div>
                     <div class="column">Horario</div>
